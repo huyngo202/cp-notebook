@@ -1,0 +1,42 @@
+{
+    "editor.fontFamily": "'Fira Code', Consolas",
+    "editor.suggest.delay": 0,
+    "editor.fontSize": 17,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "k",
+                "j"
+            ],
+            "after": [
+                "<esc>"
+            ]
+        }
+    ],
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {},
+    "C_Cpp.formatting": "vcFormat",
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "python.formatting.provider": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "cph.language.cpp.Args": "-std=c++20",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "redhat.telemetry.enabled": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "git.ignoreMissingGitWarning": true,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "window.zoomLevel": 1,
+    "explorer.confirmDragAndDrop": false,
+    "cmake.showOptionsMovedNotification": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+}
