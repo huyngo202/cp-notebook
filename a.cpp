@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>  
 #ifdef LOCAL
-#include <D:/workspace/cp/debug.hpp>
+#include </home/worker/cp-notebook/debug.hpp>
+#else
+#define dbg(...) (void)0
 #endif
 using namespace std;
 using ll = long long;
